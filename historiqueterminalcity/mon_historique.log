@@ -1,0 +1,177 @@
+    1  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-b9adda70d3ba4716831b1acf9ef42b30; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp63ff4ab2.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+    2  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-e89aabbea4d24906b7a1a1a3dc6b3668; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmpd56d4e.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+    3  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-e401ba0db06d48079d247d3fd740b94b; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp771d4f35.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+    4  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-31f0f710015c450b88507a0169f15460; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp318a2276.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+    5  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-d4a68359ca4f4571b808c11e95c3e955; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp3b5b0444.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+    6  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-f36483b582894f61a9d9b79acac0d572; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp24e067ee.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+    7  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-2b623b3f6acd496c8311265e073ee79d; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp1741e5b2.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+    8  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-4b51a019d3fb4c02831e515369a15164; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp155ded97.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+    9  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-9e85355fdc2a436cbfc0a7c8c8bcc304; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp38308b55.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   10  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-6755c316c48546639adff6e87c9c0e45; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp6781b523.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   11  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-d4b8ebf42782422d906bcc7fa8fe49d7; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp7627f691.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   12  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-86b6386562fe4b73be827294363e7f54; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp57eb4aa2.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   13  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-a93c7962621b488bb51cdbe52a85481c; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp8d0d8b2.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   14  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-e4aa1902d6db41cfb021542f6fa413e6; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp63056afd.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   15  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-92bf86ac3da349e78ae77016127f182c; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp308318c1.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   16  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-f2f0de627eac4a54991e5b89dedd9b65; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp718f7d5f.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   17  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-8a36bb3317fd46158e9cd411102140e2; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp9ec654f.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   18  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-668b9f634a2e4fbca086577d04a92178; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp25c0a9a7.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   19  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-4b42f93895b64b909287c80846053e1b; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp4bb033da.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   20  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-b890e429aa544ebc895ea8c17e4694e4; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp64aa80d1.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   21  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-5fc84a5bbb0642c5b6f4fb704bb17799; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp5aba3f3f.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   22  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-25f0f199c8964f5b9578f22f6d706288; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp4116f062.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   23  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-233de58c89c248838ddbd59fca9ea89b; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp3efce045.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   24  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-04b3081516bf4c4888cae3c347f01583; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp68cc665a.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   25  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-d30bf05218674642af3b8cef24810ed2; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp540cae6d.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   26  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-53f364feba4c4c1b90fd9ac83812750f; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp2ec58fa3.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   27  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-9f07e7ec48a34a6abb8200dfe3906e2a; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp683ccb04.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   28  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-8a0bf37af8f24a00a65ee36c651cca07; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp155f5e33.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   29  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-b2d8f03e735d44098636c36aa24612c7; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp53450a7e.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   30  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-e5f5f14255c0491794ac5825f464e2b5; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp64e94059.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   31  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-f46009e0ba0c45abafba912c7f171203; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp3de2bae3.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   32  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-be1b8f4f2ee24575b0576870cce03797; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp60aae502.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   33  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-c44aa6f3463d4f8da07bd9c90135f413; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp12085055.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   34  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-4c5f9b44d0bc4d248609569fa62935ef; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp1c32ae9a.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   35  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-70cac625b92444b781c9806810f01fbc; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp62966da3.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   36  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-d8425ddc4eba46fa8eb9eae299687e9b; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp7a46b49d.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   37  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-96e12e4a000148b9aab76066764a2a1d; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp3a8faec5.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   38  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-a0301b8df26c4846a8366e5f28a69632; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp670cab50.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   39  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-4a4b9992da3145fbbde458bba88d8157; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp64de2d9b.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   40  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-f55f9d201d3c4592a7e93effbb5c08d6; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp4d02c0cb.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   41  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-f19b23dd0b6643d1be860dced701d333; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp19dfeb32.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   42  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-a81809031b3f4126bb34f3cb79e1d1ca; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp6cb2c1dc.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   43  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-b6b9e7c2d5aa49e68d6f1c1e90fe3156; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp5da19ecd.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   44  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-057e957489d443fbb52c07f36e94f744; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp260ad07c.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   45  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-bb8272721931475f815b85225eea86e0; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp322976d8.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   46  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-6183245ca93749038e9bb8260b59c315; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp652cc4.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   47  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-071bd72872ea43abb33998afa714ecec; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp754c1ca4.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   48  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-6dce88a3104747a383e7e9c5cdb5bacc; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp742608f7.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   49  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-4a88903fe9174997ae6e44df9f03d4b3; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp46660f95.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   50  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-e47d081d08714386adc2bb17bb6e32c3; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp7dda7786.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   51  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-57baa5b9016e4b129b2fee5f3c89946b; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp594766b4.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   52  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-6b81060b3691425bb18e9434d0ba7641; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp657d2a15.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   53  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-b5a77bf413be46839eca400e3da60a24; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp15ec7264.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   54  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-7376910724b347fe865ead58dc6bbcf0; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp704c3327.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   55  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-c2622812017e47689ace410ca4110f44; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp53c5c02a.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   56  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-f732135f60c14848a8a2bcc0b2177ef2; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp1e0cdcbc.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   57  clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/CoreFxPipe_vsdbg-ui-963a216db765448fae686be662d0ad38; echo $? > /var/folders/p6/0tq4n4r95tb4j0dywwmdqbvm0000gn/T/tmp6b8f6252.tmp; echo; read -p 'Press any key to continue...' -n1; exit
+   58  ls
+   59  /ASSG ls
+   60  /Desk/ ls
+   61  /Users/benjaminprades/Desktop/clmystery-master/instructions ; exit;
+   62  /Users/benjaminprades/Desktop/clmystery-master/mystery/crimescene ; exit;
+   63  cd /Users/benjaminprades/Desktop/clmystery-master 
+   64  cat instructions
+   65  /crimescene
+   66  /mystery
+   67  cd /Users/benjaminprades/Desktop/clmystery-master/mystery
+   68  cd /Users/benjaminprades/Desktop/clmystery-master/mystery/crimescene
+   69  cd /Users/benjaminprades/Desktop/clmystery-master/mystery/crimescene$
+   70  cd mystery
+   71  open crimescene
+   72  open crimescene
+   73  unzip crimescen.exe -d
+   74  unzip crimescene.exe -dr
+   75   unzip crimescene.exe -dopen
+   76  unzip crimescene
+   77  grep "CLUE"
+   78  cd~
+   79  cd ~
+   80  ~
+   81  realpath~
+   82  realpath ~
+   83  cd ~
+   84  cd~
+   85  cd ~
+   86  cd ~
+   87  realpath ~
+   88  realpath~
+   89  /home/wilder
+   90  ls
+   91  ls -l
+   92  /tmp
+   93  cd /tmp
+   94  echo "je suis moisi">vieuxtacos.txt
+   95  ls
+   96  cat vieuxtacos.txt
+   97  echo "je ne suis pas moisi">vieuxtacos.txt
+   98  cat vieuxtacos.txt
+   99  mv vieuxtacos.txt tacos.txt
+  100  cat tacos.txt
+  101  rm tacos.txt
+  102  ls
+  103  cat tacos.txt
+  104  mkdir tacosfolder
+  105  sudo mkdir tacosfolder
+  106  ls
+  107  cd..
+  108  cd ..
+  109  realpath .
+  110  pwd
+  111  sudo rm -r tacosfolder
+  112  sudo rm -rtacosfolder
+  113  sudo rm -r tacosfolder
+  114  cd~/Documents
+  115  cd ~/Documents
+  116  pwd
+  117  touch fauteuil1
+  118  touch chalet
+  119  touch fauteuil1
+  120  mv fauteuil1 chalet
+  121  touch armure
+  122  touch armoires
+  123  touch etageres
+  124  mv armure chalet
+  125  mv armoires chalet
+  126  mv etageres chalet
+  127  cd a
+  128  cd ~/chalet
+  129  pwd
+  130  ls
+  131  ~/chazlet
+  132  ~/chalet
+  133  pwd
+  134  cd
+  135  pwd
+  136  cd chalet
+  137  tree chalet
+  138  cat instructions
+  139  /Users/benjaminprades/Desktop/clmystery-master/README.md 
+  140  /Users/benjaminprades/Desktop/clmystery-master 
+  141  cat instructions
+  142  cd mystery
+  143  pwd
+  144  open~/Desktop/clmystery-master
+  145  pwd
+  146  open~/clmystery-master
+  147  /Users/benjaminprades/Downloads/clmystery-master/instructions ; exit;
+  148  /Users/benjaminprades/Desktop/clmystery-master/instructions 
+  149  cd /Users/benjaminprades/Desktop/clmystery-master/instructions 
+  150  cat instructions
+  151  nano cheatsheed.md
+  152  cd Desktop
+  153  cd clmystery-master/
+  154  cd mystery/
+  155  nano memberships/
+  156  cd Desktop/clmystery-master/mystery/
+  157  cd memberships/
+  158  ls
+  159  cd ..
+  160  grep -A 5 L337 mystery/vehicles
+  161  grep -A 5 L337 vehicles
+  162  grep -B 5 L337 vehicles
+  163  grep -C 5 L337 vehicles
+  164  cd memberships/
+  165  ls
+  166  cat Fitness_Galaxy AAA Museum_of_Bash_History Delta_Skymiles | grep "Aron Pilhofer"
+  167  cat Fitness_Galaxy AAA Museum_of_Bash_History Delta_Skymiles | grep "Heather Billings"
+  168  cat Fitness_Galaxy AAA Museum_of_Bash_History Delta_Skymiles | grep "Joe Germuska"
+  169  cat Fitness_Galaxy AAA Museum_of_Bash_History Delta_Skymiles | grep "Jeremy Bowers"
+  170  cat Fitness_Galaxy AAA Museum_of_Bash_History Delta_Skymiles | grep "Jacqui Maher"
+  171  cat AAA Museum_of_Bash_History Terminal_City_Library Delta_SkyMiles | grep "Aaron Pilhofer"
+  172  cat AAA Museum_of_Bash_History Terminal_City_Library Delta_SkyMiles | grep "Heather Billings"
+  173  cat AAA Museum_of_Bash_History Terminal_City_Library Delta_SkyMiles | grep "Joe Germuska"
+  174  cat AAA Museum_of_Bash_History Terminal_City_Library Delta_SkyMiles | grep "Jeremy Bowers"
+  175  history
+  176  echo "Jeremy Bowers"
+  177  history > ~/Desktop/mon_historique.log 
